@@ -1,0 +1,270 @@
+body {
+  font-family:'Poiret One';
+  background-color: #f6f7ea;
+}
+
+nav {
+  margin: auto;
+  background-color: #7a7265;
+  color: #efd09e;
+}
+
+ul {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+article {
+  width: 280px;
+  height: 360px;
+  padding: 2px;
+  margin-left: 5px;
+  background-color: #f9f9f2;
+  box-shadow: 0 0 5px #777777;
+  margin: 10px;
+}
+
+.icon-nav {
+  width: 23px;
+  height: 23px;
+  margin: 0;
+  color: #ebefbf;
+  padding-left: 10px;
+  margin-bottom: -6px;
+}
+.med-nav {
+  width: 40px;
+  height: 40px;
+  padding: 0;
+}
+.icon-nav path {
+  fill: white;
+}
+
+ul {
+  margin: 10px 5px 10px 5px;
+  padding-left: 0;
+}
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  display: block;
+  margin: auto;
+  font-family: 'Poiret One';
+  color: #ebefbf;
+  background-color: #7a7265;
+  border: none;
+}
+
+h1 {
+  font-family: 'Poiret One';
+  font-size: 42px;
+}
+
+h2 {
+  margin-left: 15px;
+  margin-top: 0;
+  padding-top: 20px;
+  text-transform: capitalize;
+  font-weight: 800;
+  font-size: 36px;
+  margin-bottom: 13px;
+}
+
+.art-top {
+  margin: 0;
+  height:120px;
+}
+
+.img-one {
+  margin: 0;
+  height:120px;
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('real_succulent.jpg');
+}
+
+.img-two {
+  margin: 0;
+  height:120px;
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('hydrangea.jpg');
+}
+
+.img-three {
+  margin: 0;
+  height:120px;
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('chrysan.jpg');
+}
+
+.img-four {
+  margin: 0;
+  height:120px;
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('cactus-water.jpg');
+}
+
+.img-five {
+  margin: 0;
+  height:120px;
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('cherry-blossom.jpg');
+}
+
+.img-six {
+  margin: 0;
+  height:120px;
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('snapdragon.jpg');
+}
+
+.img-seven {
+  margin: 0;
+  height:120px;
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('pansies-and-violas.jpg');
+}
+
+.img-eight {
+  margin: 0;
+  height:120px;
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('columbine-flower.jpg');
+}
+
+.art-top .up-case {
+  margin-bottom: 2px;
+}
+
+p.white {
+  color: white;
+}
+
+.up-case {
+  text-transform: uppercase;
+
+}
+
+.in-image {
+  float: right;
+  clear: right;
+  margin-top: 10px;
+  padding-right: 10px;
+  font-weight: 600;
+}
+
+.number {
+  margin-top: 1px;
+  font-size: 24px;
+}
+
+.art-top img {
+
+}
+
+h3 {
+  margin-top: 5px;
+  margin-left: 12px;
+  margin-bottom: 2px;
+}
+
+p {
+  margin-top: 2px;
+  margin-bottom: 15px;
+  margin-left: 12px;
+}
+
+a {
+  display: block;
+  height: 40px;
+  width: 240px;
+  margin-left: 12px;
+  padding: 5px;
+  background-color:#ebefbf;
+  background-image: url(http://pacehold.it/280x90);
+  overflow-wrap: break-word;
+  text-decoration: none;
+  color: black;
+}
+
+.go-to-garden {
+  width: 70px;
+  height: 70px;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
+
+p.up-case.type-style {
+  margin-top: 15px;
+}
+
+.type-style {
+  margin-bottom: 2px;
+}
+
+.blue {
+  font-weight: 800;
+  color: #339989;
+}
+
+
+@media screen and (min-width:608px) and (max-width: 799px) {
+
+  ul {
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+  }
+
+  .social {
+    float: left;
+    clear: both;
+    margin-top: 60px;
+  }
+
+  .user-title {
+    margin-left: calc(100% - 215px);
+  }
+
+}
+
+
+@media screen and (min-width: 800px) {
+
+  .container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto
+  }
+
+  .social {
+    float: left;
+    clear: both;
+    margin-top: 60px;
+  }
+
+  .user-title {
+    margin-left: calc(100% - 215px);
+  }
+}
