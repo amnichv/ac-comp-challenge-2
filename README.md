@@ -2,3 +2,6 @@
 Comp Challenge 2
 
 Responsive static comp that (should) work in Chrome, Safari, and Firefox. Liberties taken with color, icons, type, and copy. 
+
+
+https://amnichv.github.io/ac-comp-challenge-2/
