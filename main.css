@@ -97,49 +97,49 @@ h2 {
 .img-one {
   margin: 0;
   height:120px;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('real_succulent.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/real_succulent.jpg');
 }
 
 .img-two {
   margin: 0;
   height:120px;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('hydrangea.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/hydrangea.jpg');
 }
 
 .img-three {
   margin: 0;
   height:120px;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('chrysan.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/chrysan.jpg');
 }
 
 .img-four {
   margin: 0;
   height:120px;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('cactus-water.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/cactus-water.jpg');
 }
 
 .img-five {
   margin: 0;
   height:120px;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('cherry-blossom.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/cherry-blossom.jpg');
 }
 
 .img-six {
   margin: 0;
   height:120px;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('snapdragon.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/snapdragon.jpg');
 }
 
 .img-seven {
   margin: 0;
   height:120px;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('pansies-and-violas.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/pansies-and-violas.jpg');
 }
 
 .img-eight {
   margin: 0;
   height:120px;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('columbine-flower.jpg');
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('images/Columbine-Flower.jpg');
 }
 
 .art-top .up-case {
